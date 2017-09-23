@@ -25,6 +25,25 @@ Haz un _fork_ del repositorio, clona tu _fork_ en tu local (`git clone ...`), si
 Ya lo tienes, habrás clonado la web y estará disponible bajo tu nombre de usuario, por ejemplo, si tu nombre de usuario es _supportdemocracy_, entonces tu web estará disponible en https://supportdemocracy.github.io/referendumcat
 
 
+## CONTRIBUTE
+
+_English_:
+
+Pull requests (a.k.a PR) are welcome to add more content to the site, in order to improve the communication of what's happening in Spain against to a democratic process requested by the Catalan town.
+On the other hand, forking this repository is a very welcome contribution.
+
+_Català_:
+
+_Pull requests_ (conegut com PR) són benvinguts per afegir més contingut a la pàgina web, per tal de millorar la comunicació sobre què és el que està succeint a España contra un procés democràtic sol·licitat pel poble de Catalunya.
+D'altra banda, fer un _fork_ d'aquest repositori és mólt benvingut.
+
+_Español_:
+
+_Pull requests_ (conocido como PR) son bienvenidos para añadir más contenido a la página web, por tal de miejorar la comunicación sobre que es lo que  está sucediendo en España contra un proceso democrático solicitado por el pueblo de Cataluña.
+Por otra parte, hacer un _fork_ de este repositorio es muy bienvenido.
+
+
+
 ## CREDITS
 
 This website has been generated with https://github.com/apex/static
